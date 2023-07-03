@@ -1,0 +1,6 @@
+venv/
+.cache
+.config
+.upm
+__pycache__/
+.breakpoints
