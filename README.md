@@ -1,10 +1,12 @@
-Group 7 - Proof of Stake
-Sarvagya Sharma     2019A7PS0037H
-Kshitij Nayyar      2019A8PS0420H
-Nikhil Sachdeva     2019B5A71079H
-Vartika Gupta       2019B3A70729H
+# Group 7 - Proof of Stake
+This project was done as a part of the Blockchain course at BITS Hyderabad
 
-Operation:
+- Sarvagya Sharma     2019A7PS0037H
+- Kshitij Nayyar      2019A8PS0420H
+- Nikhil Sachdeva     2019B5A71079H
+- Vartika Gupta       2019B3A70729H
+
+## Description:
 AccountModel.py: To add new users, Deposit, withdraw money from their accounts, functions are implemented along with showing account details.
 
 User.py: For each user it's mining address is generated using hashing algo.
